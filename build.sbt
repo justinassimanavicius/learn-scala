@@ -1,4 +1,4 @@
-name := "playground"
+name := "learn-scala"
 
 version := "0.1"
 
