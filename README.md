@@ -6,3 +6,4 @@
 - [ ] monix
   - [x] task creation
   - [ ] async boundary
+- [ ] Circe
