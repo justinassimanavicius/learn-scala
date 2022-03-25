@@ -7,3 +7,6 @@
   - [x] task creation
   - [ ] async boundary
 - [ ] Circe
+- [ ] JMock
+- [ ] Mockito
+- [ ] JUnit
